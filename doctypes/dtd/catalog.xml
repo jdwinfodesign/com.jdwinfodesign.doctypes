@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog"          
+  prefer="public">
+  <nextCatalog catalog="bookmap/catalog.xml"/>
+  <!-- ===================================== -->
+  <nextCatalog catalog="map/catalog.xml"/>  
+  <nextCatalog catalog="topic/catalog.xml"/>
+  <nextCatalog catalog="concept/catalog.xml"/>
+  <nextCatalog catalog="task/catalog.xml"/>
+  <nextCatalog catalog="reference/catalog.xml"/>
+  <!-- ===================================== -->
+  <nextCatalog catalog="subjectScheme/catalog.xml"/>
+  <nextCatalog catalog="technicalContent/catalog.xml"/>
+  <!-- ===================================== -->
+  <nextCatalog catalog="ditabase/catalog.xml"/>
+  <nextCatalog catalog="generalTask/catalog.xml"/>
+
+</catalog>  

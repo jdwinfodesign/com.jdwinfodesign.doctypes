@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This file extends the information types in the DITA Open Toolkit project.
+Licensing is intended to be consistent with that of the DITA Open Toolkit project.
+-->
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  
+  <nextCatalog catalog="doctypes/catalog.xml"/>
+  
+ </catalog>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ============================================================= -->
+<!--                    HEADER                                     -->
+<!-- ============================================================= -->
+<!--  Based on the                                                 -->
+<!--                                                               -->
+<!--  MODULE:    DITA Glossary DTD                                 -->
+<!--  VERSION:   1.2                                               -->
+<!--  DATE:      November 2009                                     -->
+<!--             Joe D. Williams                                   -->
+<!--             Specialized on October 23, 2020                   -->
+<!-- NOTE: The glossary.dtd file was misnamed in DITA 1.1. As of 
+     DITA 1.2, this file simply redirects to the correctly-named
+     file.
+  -->
+
+<!ENTITY % glossentryDtd
+  PUBLIC "urn:pubid:jdwinfodesign.com:doctypes:dita:dtd:glossentry" 
+         "glossentry.dtd"
+>%glossentryDtd;
+
+<!-- ================= End of DITA Glossary Shell ================= -->

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This file extends the information types in the DITA Open Toolkit project.
+Licensing is intended to be consistent with that of the DITA Open Toolkit project.
+-->
+
+<plugin id="com.jdwinfodesign.doctypes">
+    <feature extension="dita.specialization.catalog.relative" file="catalog.xml"/>
+</plugin>

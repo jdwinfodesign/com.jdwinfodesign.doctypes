@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog"          
+    prefer="public">  
+    <public publicId="urn:pubid:jdwinfodesign.com:doctypes:dita:dtd:glossentry" 
+            uri="glossentry.dtd"/>
+        <system systemId="urn:pubid:jdwinfodesign.com:doctypes:dita:dtd:glossentry.dtd" 
+            uri="glossentry.dtd"/>
+
+    <public publicId="urn:pubid:jdwinfodesign.com:doctypes:dita:dtd:troubleshooting" 
+            uri="troubleshooting.dtd"/>
+        <system systemId="urn:pubid:jdwinfodesign.com:doctypes:dita:dtd:troubleshooting.dtd" 
+            uri="troubleshooting.dtd"/>
+</catalog>
+

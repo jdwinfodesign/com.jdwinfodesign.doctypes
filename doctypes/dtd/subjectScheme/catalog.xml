@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog"          
+    prefer="public">  
+    <public publicId="urn:pubid:jdwinfodesign.com:doctypes:dita:dtd:classifyMap" 
+            uri="classifyMap.dtd"/>
+    <system systemId="urn:pubid:jdwinfodesign.com:doctypes:dita:dtd:classifyMap.dtd" 
+            uri="classifyMap.dtd"/>
+
+    <public publicId="urn:pubid:jdwinfodesign.com:doctypes:dita:dtd:subjectScheme" 
+            uri="subjectScheme.dtd"/>
+    <system systemId="urn:pubid:jdwinfodesign.com:doctypes:dita:dtd:subjectScheme.dtd" 
+            uri="subjectScheme.dtd"/>
+</catalog>
+
